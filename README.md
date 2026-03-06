@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Xin Le
 
 ### 🔭 About Me
-* 🎓 Computer Science with Second Major Undergraduate at NTU
+* 🎓 Computer Science with Second Major in Business undergraduate at NTU
 * 💻 Passionate about Data Science, Artifical Intelligence , and Finance
 * 🌏 Based in Singapore
 
